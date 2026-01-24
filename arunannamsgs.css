@@ -8,6 +8,7 @@
 .intro-card{
     text-align:center;
     background-color:white;
+}
 .head{
     font-size: 30px;
 }
@@ -17,5 +18,7 @@
 }
 .button{
     background-color:blue;
+    
 }
+
 
