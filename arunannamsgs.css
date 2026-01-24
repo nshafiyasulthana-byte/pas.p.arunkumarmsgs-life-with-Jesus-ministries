@@ -1,10 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
 .bg{
-    background-image: url("https://res.cloudinary.com/dx5pk3s0u/image/upload/v1769263107/bible_uqrwav.jpg");
+    background-image: url("https://w0.peakpx.com/wallpaper/805/205/HD-wallpaper-holy-bible-note.jpg");
     background-size:cover;
     height:100vh;
     width:100vw;
 }
+.intro-card{
+    text-align:center;
+    background-color:white;
 .head{
     font-size: 30px;
 }
@@ -12,3 +15,7 @@
     font-size:20px;
     color:#808080;
 }
+.button{
+    background-color:blue;
+}
+
