@@ -3,12 +3,14 @@
     background-image: url("https://w0.peakpx.com/wallpaper/805/205/HD-wallpaper-holy-bible-note.jpg");
     background-size:cover;
     height:320vh;
-    width:120vw;
+    width:220vw;
     background-position:center;
 }
 .intro-card{
     text-align:center;
     background-color:white;
+    height:300px;
+    width:auto;
 }
 .head{
     font-size: 30px;
@@ -20,6 +22,7 @@
 .button{
     background-color:blue;
 }
+
 
 
 
