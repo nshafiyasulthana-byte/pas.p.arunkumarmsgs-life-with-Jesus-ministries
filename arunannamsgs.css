@@ -26,6 +26,21 @@
 .button{
     background-color:blue;
 }
+.secbg{
+    background-image: url("https://www.freepik.com/free-ai-image/open-book-with-natural-element_320257250.htm#fromView=keyword&page=1&position=2&uuid=d4f300a8-7cb2-4ecc-aabc-888dd26b9051&query=Bible+background");
+    background-size:cover;
+    height:100vh;
+    width:auto;
+    background-position:center;
+}
+.sec-para{
+    background-color:#bef5a4;
+    border-color:#53873a;
+    border-width:8px;
+    font-family:"Bree Serif";
+}
+    
+
 
 
 
