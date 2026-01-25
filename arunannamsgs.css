@@ -10,8 +10,11 @@
 .intro-card{
     text-align:center;
     background-color:white;
-    height:200px;
+    height:400px;
     width:auto;
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
+    font-family:"Bree Serif";
 }
 .head{
     font-size: 30px;
@@ -23,6 +26,7 @@
 .button{
     background-color:blue;
 }
+
 
 
 
