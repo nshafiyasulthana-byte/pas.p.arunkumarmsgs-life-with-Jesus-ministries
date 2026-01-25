@@ -10,7 +10,7 @@
 .intro-card{
     text-align:center;
     background-color:white;
-    height:400px;
+    height:200px;
     width:auto;
     border-top-left-radius:25px;
     border-top-right-radius:25px;
@@ -26,6 +26,7 @@
 .button{
     background-color:blue;
 }
+
 
 
 
