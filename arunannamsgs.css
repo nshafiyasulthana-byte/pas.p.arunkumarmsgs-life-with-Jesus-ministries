@@ -34,9 +34,7 @@
     background-position:center;
 }
 .sec-para{
-    background-color:#bef5a4;
-    border-color:#53873a;
-    border-width:8px;
+    margin:25px;
     font-family:"Bree Serif";
 }
     
@@ -55,6 +53,7 @@
   padding: 12px;
   border-radius: 6px;
 }
+
 
 
 
