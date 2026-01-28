@@ -40,6 +40,21 @@
     font-family:"Bree Serif";
 }
     
+.rainbow {
+  background: linear-gradient(
+    90deg,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet
+  );
+  color: white;
+  padding: 12px;
+  border-radius: 6px;
+}
 
 
 
